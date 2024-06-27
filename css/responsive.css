@@ -1,0 +1,290 @@
+@media(max-width:1199.98px){
+    .navbar-nav .nav-item {
+        padding-right: 10px;
+    }
+    .yellow-btn {
+        padding: 10px 15px;
+        white-space: nowrap;
+    }
+    .header-btn .yellow-btn {
+        width: 100%;
+    }
+    .banner-lefttxt h1 {
+        font-size: 42px;
+        line-height: 1.34;
+    }
+    .banner-lefttxt p {
+        font-size: 16px;
+        line-height: 1.60;
+    }
+    .excited-box h2 {
+        font-size: 34px;
+        line-height: 1.35;
+    }
+    .main-boxx {
+        padding-left: 30px;
+    }
+    .we-excited .excited-rightbox {
+        position: relative;
+        padding: 10px;
+    }
+    .we-excited .excited-rightbox img {
+        border-radius: 10px;
+        padding: 0px;
+    }
+    .we-excited .excitedRbox2 {
+        width: 350px;
+        height: 300px;
+        top: -20px;
+        left: 80px;
+    }
+    .newsletter-box .yellow-btn {
+        top: 0;
+        right: 165px;
+    }
+    .choose-right h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .choose-btn {
+        margin-top: 30px;
+    }
+    .choose-list li{
+        font-size: 16px;
+        background-size: 15px;
+    }
+    .features-txt h3{
+        font-size: 22px;
+    }
+    .features-txt p{
+        font-size: 16px;
+    }
+    .leave-concern h2 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .concern-btn {
+        margin-top: 0px;
+    }
+    .grab-title h2 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .mainBlog-box .card img {
+        padding: 10px;
+    }
+    .blue-btn {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .card-title {
+        font-size: 20px;
+    }
+    .sliderimg-overlay h3{
+        font-size: 18px;
+    }
+    .sliderimg-overlay p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .sliderimg-overlay {
+        left: 5px;
+    }
+    .user_name h4 {
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .review_box p {
+        font-size: 16px;
+    }
+    .faq-content .accordion-body p {
+        font-size: 14px;
+    }
+    .quick-links {
+        padding-left: 80px;
+    }
+}
+@media(min-width:768px){
+    .appointment-sec {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+    }
+    .main-callBox {
+        margin-left: 30px;
+    }
+}
+@media(max-width:991.98px){
+    .banner-lefttxt h1 {
+        font-size: 36px;
+        line-height: 1.34;
+    }
+    .banner-lefttxt > p {
+        font-size: 16px;
+        line-height: 28px;
+        margin: 20px 0 25px 0;
+    }
+    .excited-box {
+        text-align: center;
+    }
+    .we-excited .excitedRbox2 {
+        width: 400px;
+        height: 340px;
+        top: -35px;
+        left: 80px;
+    }
+    .main-boxx {
+        padding-left: 150px;
+        margin-top: 90px;
+    }
+    .newsletter-box {
+        padding-left: 30px;
+    }
+    .choose-left {
+        text-align:left;
+    }
+    .concern-left {
+        text-align: center;
+    }
+    .grab-play {
+        top: 36%;
+        left: 45%;
+    }
+    .mainBlog-box {
+        margin-top: 25px;
+    }
+    .mainBlog-box .card img {
+        padding: 20px;
+    }
+    .sliderimg-overlay h3 {
+        font-size: 14px;
+    }
+    .sliderimg-overlay p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .sliderimg-overlay{
+        padding: 5px;
+    }
+    .sliderimg-overlay h3{
+        line-height: 20px;
+    }
+    .quick-links {
+         padding-left: 30px;
+    }
+    .follow-us {
+        padding-left: 50px;
+    }
+    .bannerRight-img img {
+        max-width: 450px;
+        margin-left: auto;
+        display: block;
+    }
+}
+@media(max-width:767.98px){
+    .banner-lefttxt {
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .call-appoinment {
+        padding-left: 78px;
+        margin-top: 20px;
+    }
+    .bannerRight-img img {
+        max-width: 300px;
+        margin-left: auto;
+        display: block;
+    }
+    .row>* {
+        margin-bottom: 30px;
+    }
+    .newsletter-box {
+        padding-left:0px;
+    }
+    .newsletter-box .form-control {
+        width: 340px;
+        height: 50px;
+    }
+    .newsletter-box .yellow-btn {
+        top: 0;
+        right: 5px;
+    }
+    .newsletter-box .form-control {
+        width: 340px;
+        height: 50px;
+        font-size: 14px;
+        padding-right: 10px;
+    }
+    .main-boxx {
+        padding-left:0px;
+        margin-top: 50px;
+    }
+    .choose-right h3 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-top: 14px;
+    }
+    .choose-btn {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .leave-concern h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .grab-title h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .grab-title p {
+        max-width: 600px;
+        margin: 0 auto;
+        margin-top: 5px;
+        margin-bottom: 30px;
+    }
+    .blogs .mainhead-title {
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    .mainBlog-box .card img {
+        padding: 25px;
+    }
+    .sliderimg-overlay {
+        padding: 30px;
+    }
+    .sliderimg-overlay h3 {
+        font-size: 22px;
+    }
+    .sliderimg-overlay p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .sliderimg-overlay {
+        left: 40px;
+    }
+    .quick-links {
+        padding-left: 0px;
+    }
+    .follow-us {
+        padding-left: 0px;
+    }
+    .blog-btn {
+        margin-top: 0;
+    }
+    .choose-right .row>* {
+        margin-bottom: 10px;
+    }
+    /*srvc-responsive  */
+    
+}
+
+@media(min-width:768px){
+    .choose-right {
+        max-width:100%;
+        margin-top: 40px;
+    }
+}
+
+
+
+
